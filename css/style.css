@@ -1,0 +1,10 @@
+header{
+  background-color: #2F3676;
+  height: 200px;
+}
+header h1{
+  font-size: 23px;
+  font-weight: normal;
+  color: #FFFFFF;
+  width: 220px;
+}
