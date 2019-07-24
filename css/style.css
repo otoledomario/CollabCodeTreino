@@ -23,3 +23,12 @@ header h1{
   color: #FFFFFF;
   width: 220px;
 }
+form label{
+  display: block;
+  margin-left: 33px;
+  font-size: 14px;
+}
+form label input[type="checkbox"]{
+  width: 24px;
+  height: 24px;
+}
